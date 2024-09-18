@@ -4,5 +4,5 @@
 2. Lab 2
 3. Lab 3
 
-'''bash
-git branch <alternate>
+```bash 
+git branch
