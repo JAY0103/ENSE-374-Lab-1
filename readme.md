@@ -4,6 +4,5 @@
 2. Lab 2
 3. Lab 3
 
-To create a new branch use the following command: 
 '''bash
-git branch
+git branch <alternate>
